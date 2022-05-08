@@ -1,3 +1,3 @@
-# TrashMod
+# TrashMod 🗑️
 
 Does nothing.
